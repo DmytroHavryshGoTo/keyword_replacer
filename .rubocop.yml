@@ -11,3 +11,6 @@ Metrics/MethodLength:
   
 Metrics/CyclomaticComplexity:
   Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
