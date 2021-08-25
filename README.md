@@ -1,4 +1,4 @@
-# KeywordReplacer
+# KeywordReplacer [![Build Status](https://app.travis-ci.com/DmytroHavryshGoTo/keyword_replacer.svg?branch=main)](https://app.travis-ci.com/DmytroHavryshGoTo/keyword_replacer)
 
 This gem allows you to replace specified keywords with the links in the text.
 
