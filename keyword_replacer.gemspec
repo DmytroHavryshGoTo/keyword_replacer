@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Dmytro Havrysh']
   spec.email         = ['dmytro.havrysh@gotoinc.co']
   spec.summary       = 'it allows you to replace keywords in text with links'
-  spec.homepage      = 'https://github.com/DmytroHavryshGoTo'
+  spec.homepage      = 'https://github.com/DmytroHavryshGoTo/keyword_replacer'
   spec.license       = 'MIT'
   spec.required_ruby_version = '>= 2.5.0'
 
